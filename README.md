@@ -1,4 +1,3 @@
-```markdown
 # Sukaresik Digital - Sistem Administrasi Desa Online
 
 ![Banner Sukaresik Digital](assets/images/screenshot.png)
